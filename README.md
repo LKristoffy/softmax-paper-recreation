@@ -16,7 +16,7 @@ The paper addresses the limitations of softmax-based methods for out-of-distribu
 ## Resources
 
 - [**Paper**](https://arxiv.org/abs/2410.01104)
-- [**Medium Article**]()
+- [**Medium Article**](https://medium.com/@liamkristoffy/softmax-is-not-enough-is-this-simple-function-hindering-llm-reasoning-0590c2dbf6be)
 
 
 Contributions are welcome! If you have ideas for improvements or encounter any issues, feel free to open an issue or submit a pull request.
